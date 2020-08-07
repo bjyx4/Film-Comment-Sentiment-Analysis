@@ -1,4 +1,4 @@
-# Film Comment sentiment analysis(English)
+# Film Comment Sentiment Analysis(English)
 
 
 任务描述：基于机器学习方法实现电影评论文本的情感分类。最终机器 能够从大规模标注文本中获得经验，判定某一指定文本的情感极性：正面/负面 
